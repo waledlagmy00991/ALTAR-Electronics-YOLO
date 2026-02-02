@@ -1,0 +1,14 @@
+path: ./final
+train: images/train
+val: images/val
+
+
+nc: 6
+
+names:
+  0: Arduino
+  1: Battery
+  2: Breadboard
+  3: Resistor
+  4: LED
+  5: Wire
